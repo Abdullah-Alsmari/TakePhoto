@@ -12,3 +12,16 @@ and take Photo and show in ImgView
 
 # Components Used
 - Camera X
+
+
+
+
+
+
+
+
+
+
+# References
+-  https://thesimplycoder.com/299/android-take-photo-from-camera-and-gallery/
+-  https://developer.android.com/guide/topics/media/camera
