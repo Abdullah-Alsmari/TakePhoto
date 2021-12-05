@@ -11,20 +11,31 @@
         android:id="@+id/button_take_picture"
         android:layout_width="94dp"
         android:layout_height="40dp"
-        android:layout_marginTop="128dp"
+        android:layout_marginTop="120dp"
         android:text="PicImg"
         app:layout_constraintEnd_toEndOf="@+id/imageview_picture"
+        app:layout_constraintHorizontal_bias="0.228"
         app:layout_constraintStart_toStartOf="@+id/imageview_picture"
         app:layout_constraintTop_toBottomOf="@+id/imageview_picture" />
 
     <ImageView
         android:id="@+id/imageview_picture"
-        android:layout_width="330dp"
-        android:layout_height="367dp"
+        android:layout_width="294dp"
+        android:layout_height="273dp"
         android:layout_marginTop="132dp"
         android:src="@drawable/ic_launcher_foreground"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="107dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="124dp"
+        android:text="SaveImge"
+        app:layout_constraintStart_toEndOf="@+id/button_take_picture"
+        app:layout_constraintTop_toBottomOf="@+id/imageview_picture" />
 </androidx.constraintlayout.widget.ConstraintLayout>
