@@ -6,7 +6,7 @@ and take Photo and show in ImgView
 
 # Application Features
 
-- Show when i take Pictures in the imageView
+- Show when i take Pictures from Camera Phone and display  in the imageView
 
 
 
@@ -19,6 +19,12 @@ and take Photo and show in ImgView
 
 
 
+
+# Members The Photo
+- Me  [ABDULLAH ALSMARI](https://github.com/Abdullah-Alsmari) 
+- [Ragad Abdullah](https://github.com/raghadabdullah97)
+- [Haya Saud](https://github.com/hayasaudd)
+- [Afrah aljadaan](https://github.com/AfrahJadan)
 
 
 
